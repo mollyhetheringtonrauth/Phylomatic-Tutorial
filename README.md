@@ -1,6 +1,6 @@
 # Phylomatic Tutorial
 
-This respository xxx tutorial posted on my blog (www.mollyhetheringtonrauth.com) intended to walk you through how to generate and modify a phylogenetic tree using Phylomatic and R. the respository contains three files: an R script, a taxa list, and a newick format tree. 
+This respository follows from tutorial posted on my blog (www.mollyhetheringtonrauth.com) which is intended to walk you through how to generate and modify a phylogenetic tree using Phylomatic and R. the respository contains three files: an R script, a taxa list, and a newick format tree. 
 
 ## Background
 Continuing on with my phylogenetics theme, I wanted to write a tutorial for how to create a supertree using Phylomatic. I recently used phylomatic to generate a figure to highlight the diversity of plant taxa included in my study. I had trouble finding a tutorial on how to use it and fiddled around for an hour or so before I got the hang of it, so here I decided to write up what I learned hoping it will say someone time in the future.
